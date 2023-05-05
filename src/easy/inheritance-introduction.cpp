@@ -16,7 +16,6 @@ class Isosceles : public Triangle {
   void description() {
     cout << "In an isosceles triangle two sides are equal" << endl;
   }
-  // Write your code here.
 };
 
 int main() {
